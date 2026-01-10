@@ -2,7 +2,7 @@
 ### DevOps & Cloud Engineer  
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Linux;Docker+%7C+Kubernetes+%7C+Automation;Monitoring+%7C+Reliability+%7C+Security" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38B2AC&left=true&vLeft=true&width=600&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Linux;Docker+%7C+Kubernetes+%7C+Automation;Monitoring+%7C+Reliability+%7C+Security" />
 </p>
 
 **📍 Kochi, India | 🏢 IBM**  
@@ -28,7 +28,7 @@ I focus on **CI/CD pipelines, infrastructure automation, observability, and clou
 
 ## 📜 Certifications
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-red?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
 
