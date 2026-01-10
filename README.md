@@ -7,7 +7,7 @@
 
 **📍 Kochi, India | 🏢 IBM**  
 
-[LinkedIn](https://linkedin.com/in/yourprofile)  •  [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/mohamedshajahan)  •  [Portfolio](https://sjsresume.ste)
 
 ---
 
