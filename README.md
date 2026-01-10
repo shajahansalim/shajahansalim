@@ -1,13 +1,13 @@
 # 🚀 Shajahan S  
 ### DevOps & Cloud Engineer  
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38B2AC&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Linux;Docker+%7C+Kubernetes+%7C+Automation;Monitoring+%7C+Reliability+%7C+Security" />
 </p>
 
 **📍 Kochi, India | 🏢 IBM**  
 
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/yourusername) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://linkedin.com/in/yourprofile)  •  [Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -22,18 +22,9 @@ I focus on **CI/CD pipelines, infrastructure automation, observability, and clou
 
 ## 🛠 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,githubactions,git,ansible,terraform,prometheus,grafana,bash" />
 </p>
-
-### ☁ AWS Services
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-EC2 • IAM • VPC • CloudWatch • EKS
-
----
 
 ## 📜 Certifications
 
@@ -65,28 +56,9 @@ A complete DevOps pipeline:
 
 ---
 
-## 🧭 DevOps Roadmap (Next 60 Days)
-
-| Phase | What I'm Building |
-|------|------------------|
-Terraform | AWS infra as code (VPC, EC2, S3, EKS)  
-Kubernetes | Deployments, services, ingress, HPA  
-CI/CD | Jenkins & GitHub Actions → EKS  
-GitOps | ArgoCD / FluxCD  
-Observability | Prometheus + Grafana + Alerting  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let’s Connect
 - 📧 shajahansalim00@gmail.com  
-- 💼 https://linkedin.com/in/yourprofile  
-- 🌐 https://yourportfolio.com  
+- 💼 https://linkedin.com/in/mohamedshajahan
+- 🌐 https://sjsresume.site  
 
 > *“Automate the boring. Monitor the important. Sleep better.”*
