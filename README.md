@@ -46,8 +46,8 @@ I focus on **CI/CD pipelines, infrastructure automation, observability, and clou
 
 ## 🚀 Featured Project
 
-### Cloud CI/CD & Automation – Resume Builder  
-🔗 https://github.com/shajahansalim/sjs-resumebuilder
+### End-to-End CI/CD Pipeline for Full Stack Application – Expense Tracker  
+🔗 https://github.com/shajahansalim/sjx-expense-tracker
 
 A complete DevOps pipeline:
 - GitHub → Jenkins → Docker → AWS EC2  
