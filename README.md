@@ -14,7 +14,6 @@
 ## 🧠 About Me
 
 I build, automate, and keep systems alive 🚀  
-
 I’m a **DevOps & Cloud Engineer with 3.5+ years of experience** working on **Linux and AWS-based production infrastructure** inside large enterprise environments.  
 I focus on **CI/CD pipelines, infrastructure automation, observability, and cloud reliability**.
 
@@ -31,16 +30,6 @@ I focus on **CI/CD pipelines, infrastructure automation, observability, and clou
 <p align="left">
   <img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-red?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
-
----
-
-## 🏢 What I Do at IBM
-
-- Support and enhance **CI/CD pipelines** using Jenkins, GitHub, and GitHub Actions  
-- Operate and support **AWS cloud infrastructure** ensuring high availability and security  
-- Automate infrastructure and configuration using **Ansible and Bash**  
-- Monitor production systems using **Prometheus, Grafana, and CloudWatch**  
-- Participate in **incident response and root cause analysis**
 
 ---
 
