@@ -1,5 +1,4 @@
 # 👋 Hello!! I'm Shajahan S  
-### DevOps & Cloud Engineer  
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=38B2AC&left=true&vLeft=true&width=600&lines=DevOps+%7C+Cloud+Engineer;AWS+%7C+CI%2FCD+%7C+Linux;Docker+%7C+Kubernetes+%7C+Automation;Monitoring+%7C+Reliability+%7C+Security" />
