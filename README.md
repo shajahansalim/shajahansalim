@@ -7,7 +7,6 @@
 
 **📍 Kochi, India | 🏢 IBM**  
 
-[LinkedIn](https://linkedin.com/in/mohamedshajahan)  •  [Portfolio](https://sjsresume.site)
 
 ---
 
@@ -50,4 +49,4 @@ A complete DevOps pipeline:
 - 💼 https://linkedin.com/in/mohamedshajahan
 - 🌐 https://sjsresume.site  
 
-> *“Automate the boring. Monitor the important. Sleep better.”*
+
