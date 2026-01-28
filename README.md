@@ -7,7 +7,7 @@
 **📍 Kochi, India | 🏢 IBM**  
 
 
----
+
 
 ## 🧠 About Me
 
@@ -15,7 +15,7 @@ I build, automate, and keep systems alive 🚀
 I’m a **DevOps & Cloud Engineer with 3.5+ years of experience** working on **Linux and AWS-based production infrastructure** inside large enterprise environments.  
 I focus on **CI/CD pipelines, infrastructure automation, observability, and cloud reliability**.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -29,7 +29,7 @@ I focus on **CI/CD pipelines, infrastructure automation, observability, and clou
   <img src="https://img.shields.io/badge/RHCSA-Red%20Hat%20Certified%20System%20Administrator-red?style=for-the-badge&logo=redhat&logoColor=white" />
 </p>
 
----
+
 
 ## 🚀 Featured Project
 
@@ -41,7 +41,7 @@ A complete DevOps pipeline:
 - Automated builds, tests, and deployments  
 - Monitoring and log visibility  
 
----
+
 
 ## 📫 Let’s Connect
 - 📧 shajahansalim00@gmail.com  
